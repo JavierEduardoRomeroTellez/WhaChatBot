@@ -1,0 +1,56 @@
+! version = 2.0
+
++ hola
+- Saludo
+
++ informacion
+- info
+
++ buenas
+@ hola
+
++ necesito imprimir
+- tipo_impresion
+
++ mas opciones
+- mas_opciones
+
++ volver
+@ necesito imprimir
+
++ personal
+- cotizacion
+
++ social
+@ personal
+
++ comercial
+@ personal
+
++ industrial
+@ personal
+
++ [*] x [*]
+- medidas
+
++ [*] (lunes|martes|miercoles|jueves|viernes|enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre|dias|dia) [*]
+- paquetes
+
++ [*] (bajo|alto|no me interesa) [*]
+- envios
+
++ [*] (puntos de entrega|envio a domicilio) [*]
+- diseño
+
++ si tengo
+- tiempo
+
++ no tengo
+- diseñador
+- diseñador2
+
++ (de acuerdo|desacuerdo)
+- deposito
+
++ *
+- Prueba
